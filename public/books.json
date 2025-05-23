@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publishedDate": "1925-04-10",
+    "publisher": "Charles Scribner's Sons",
+    "overview": "A novel about the American dream.",
+    "coverImage": "/Images/img1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "publishedDate": "1949-06-08",
+    "publisher": "Secker & Warburg",
+    "overview": "A dystopian novel set in a totalitarian society.",
+    "coverImage": "/images/brave-new-world.jpg"
+  },
+  {
+    "id": 3,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publishedDate": "1960-07-11",
+    "publisher": "J.B. Lippincott & Co.",
+    "overview": "A novel about racial injustice in the Deep South.",
+    "coverImage": "/images/brave-new-world.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publishedDate": "1813-01-28",
+    "publisher": "T. Egerton, Whitehall",
+    "overview": "A romantic novel about manners and marriage.",
+    "coverImage": "/images/brave-new-world.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publishedDate": "1951-07-16",
+    "publisher": "Little, Brown and Company",
+    "overview": "A story about teenage rebellion and alienation.",
+    "coverImage": "/images/brave-new-world.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "publishedDate": "1851-10-18",
+    "publisher": "Harper & Brothers",
+    "overview": "A narrative about Captain Ahab's quest for revenge against the white whale.",
+    "coverImage": "/images/brave-new-world.jpg"
+  },
+  {
+    "id": 7,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "publishedDate": "1869-01-01",
+    "publisher": "The Russian Messenger",
+    "overview": "An epic tale of Russian society during the Napoleonic Wars.",
+    "coverImage": "/images/brave-new-world.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publishedDate": "1937-09-21",
+    "publisher": "George Allen & Unwin",
+    "overview": "A fantasy adventure about Bilbo Baggins' journey.",
+    "coverImage": "/images/brave-new-world.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publishedDate": "1988-01-01",
+    "publisher": "HarperOne",
+    "overview": "A philosophical novel about following your dreams.",
+    "coverImage": "/images/brave-new-world.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "publishedDate": "1932-01-01",
+    "publisher": "Chatto & Windus",
+    "overview": "A dystopian novel exploring a futuristic society.",
+    "coverImage": "/images/brave-new-world.jpg"
+  }
+]
